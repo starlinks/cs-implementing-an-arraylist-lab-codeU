@@ -21,7 +21,7 @@ In the subdirectory `javacs-lab02/src/com/flatironschool/javacs` you'll find the
 
     *  `MyArrayListTest.java` contains JUnit tests for `MyArrayList`.
 
-In `javacs-lab02`, you'll find the Ant build file `build.xml`.  If you are in this directory, you should be able to run `ant MyArrayList` to run `MyArrayList.java`, which contains a few simple tests.  Or you can run `ant MyArrayListTest` to run the JUnit test.
+In `javacs-lab02`, you'll find the Ant build file `build.xml`.  If you are in this directory, you should be able to run `ant MyArrayList` to run `MyArrayList.java`, which contains a few simple tests. (Make sure you run `ant build` before trying to run the individual classes!)  Or you can run `ant MyArrayListTest` to run the JUnit test.
     
 When you run the tests, several of them should fail.  If you examine the source code, you'll find four `TODO` comments indicating which methods you will fill in.
 
